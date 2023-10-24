@@ -7,7 +7,7 @@ El proyecto fue creado con **HTML5 , CSS3 Y REACT**.
 
 
 
-**Sigue programando, mantén la curiosidad y nunca dejes de mejorar**
+**LA PRÁCTICA HACE AL MAESTRO 🙌**
 
 ##Contenido del proyecto 
 1. Header
